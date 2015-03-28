@@ -1,0 +1,177 @@
+# a cool fish shortcut (with my mistakes erased)
+cd ~
+man less
+history | less
+history
+subl .
+cd
+ls
+cd Channel\ View\ Estate/
+cd Desktop/
+cd Recent\ Servers/
+ls ~
+pwd
+cd ../..
+cd ..
+cd Trinity\ Outdoors_Logo\ eps/
+cd Trinity\ Logo/
+cd Trinity\ Outdoors/
+cd Outdoors/
+cd Documents/
+cd Fonts/
+# trying a bunch of ls command variations
+ls -a
+ls -r
+man ls
+ls -P
+ls -A
+man man
+ls -lr
+ls - lr
+ls -rl
+ls -lt
+ls -rt
+ls -t
+ls -l
+# got bored so I checked whether brew was up to date
+brew update
+cd /
+pwb
+# I changed my user name and email in git after I realized that I didn't have to use all caps, like the example
+git config --global user.name 'Thom Booth'
+git config --global user.email 'thombooth@emsoln.com'
+git --version
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+# I entered my user and email info into git
+git config --global user.email 'THOMBOOTH@EMSOLN.COM'
+git config --global user.name 'THOM BOOTH'
+brew install git
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+set -gx EDITOR 'subl -w'
+# Sublime Text
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+ln -s/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+brew in
+brew install.log
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+thom$
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ruby -e "(curlruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ls -G
+brew doctor
+brew
+uname
+man
+cd ~/documents
+cd /users/thom/documents
+cd/users/thom/documents
+cd documents
+ls -l ~
+chflags nohidden ~/LIbrary/
+/Users/thom/Library/Mail\ Downloads/FeatureLayerEditingSample/FeatureLayerEditingSample.xcodeproj/project.pbxproj ; exit;
+/Users/thom/Library/Mail\ Downloads/FeatureLayerEditingSample/iPad/MainWindow-iPad.xib ; exit;
+crontab -e
+ssh thombooth@web-ftp.speakeasy.net
+man crontab
+cd /Users/thombooth/Documents/MarsHill\ Activities/MHO\ Website/MHO\ Site/
+telnet web-ftp.speakeasy.net 22
+telnet web-ftp.speakeasy.net
+logout
+login root
+root
+/Users/thombooth/Desktop/binaryonlyforpanther200603/mencoder; exit
+/Users/thombooth/Desktop/binaryonlyforpanther200603/mplayer; exit
+ll
+ls
+# all of this is a duplicate of the history above
+history > moving_around.txt
+cd ~
+man less
+history | less
+history
+subl .
+cd
+cd Channel\ View\ Estate/
+cd Desktop/
+cd Recent\ Servers/
+ls ~
+pwd
+cd ../..
+cd ..
+cd Trinity\ Outdoors_Logo\ eps/
+cd Trinity\ Logo/
+cd Trinity\ Outdoors/
+cd Outdoors/
+cd Documents/
+cd Fonts/
+ls -a
+ls -r
+man ls
+ls -P
+ls -A
+man man
+ls -lr
+ls - lr
+ls -rl
+ls -lt
+ls -rt
+ls -t
+ls -l
+brew update
+cd /
+pwb
+git config --global user.name 'Thom Booth'
+git config --global user.email 'thombooth@emsoln.com'
+git --version
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'THOMBOOTH@EMSOLN.COM'
+git config --global user.name 'THOM BOOTH'
+global user.name 'THOM BOOTH'
+brew install git
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+set -gx EDITOR 'subl -w'
+# Sublime Text
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+ln -s/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+brew in
+brew install.log
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+thom$
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ruby -e "(curlruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ls -G
+brew doctor
+brew
+uname
+man
+cd ~/documents
+cd /users/thom/documents
+cd/users/thom/documents
+cd documents
+ls -l ~
+chflags nohidden ~/LIbrary/
+/Users/thom/Library/Mail\ Downloads/FeatureLayerEditingSample/FeatureLayerEditingSample.xcodeproj/project.pbxproj ; exit;
+/Users/thom/Library/Mail\ Downloads/FeatureLayerEditingSample/iPad/MainWindow-iPad.xib ; exit;
+crontab -e
+ssh thombooth@web-ftp.speakeasy.net
+man crontab
+cd /Users/thombooth/Documents/MarsHill\ Activities/MHO\ Website/MHO\ Site/
+telnet web-ftp.speakeasy.net 22
+telnet web-ftp.speakeasy.net
+logout
+login root
+root
+/Users/thombooth/Desktop/binaryonlyforpanther200603/mencoder; exit
+/Users/thombooth/Desktop/binaryonlyforpanther200603/mplayer; exit
