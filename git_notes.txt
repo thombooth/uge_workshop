@@ -6,3 +6,8 @@ HEAD is *not* a branch
 
 # creats a new branch (label) called git-notes git branch git notes
 
+GitHUB is a saucy saucy beast.  All kinds of pushing and pulling
+
+Want a clone?  It can do that too!
+
+What more could you ask for?
