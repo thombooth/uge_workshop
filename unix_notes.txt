@@ -1,3 +1,6 @@
+# Hidden folder where the staging area and commits live
+.git/
+
 # a cool fish shortcut (with my mistakes erased)
 cd ~
 man less
